@@ -7,5 +7,5 @@
 Needs Updating about Heteroresistance
 
 [Article Download](https://www.tmbio.me/assets/img/ASMNW_Poster_TM.pdf)
-<embed src="/assets/img/LC8_Articles.pdf" width="750" height="750" 
+<embed src="/assets/img/ASMNW_Poster_TM.pdf" width="750" height="750" 
  type="application/pdf">
