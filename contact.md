@@ -21,4 +21,4 @@ Please don't hesitate to reach out to me if you have any questions or would like
 
 
 ##### EMAIL
-- murphythomas@lifetime.oregonstate.edu
+- murphtho@ohsu.edu
