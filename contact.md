@@ -15,7 +15,7 @@ Please don't hesitate to reach out to me if you have any questions or would like
 
 
 ##### EMAIL
-- murphtho@ohsu.edu
+- thomas.murphy@tmbio.me
 
 ##### PHONE NUMBER
 - ‪(503) 908-3176‬
