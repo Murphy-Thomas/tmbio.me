@@ -14,11 +14,12 @@ title: Contact Me
 Please don't hesitate to reach out to me if you have any questions or would like to collaborate. I'll do my best to get back to you promptly. Also if there's anything I can assist with, please just let me know. I would love to hear from you!
 
 
-##### LOCATIONS
-- Corvallis, Oregon
-- Portland, Oregon
-- Seattle, Washington
-
-
 ##### EMAIL
 - murphtho@ohsu.edu
+
+##### PHONE NUMBER
+- ‪(503) 908-3176‬
+
+##### LOCATIONS
+- Portland, Oregon
+- Seattle, Washington
